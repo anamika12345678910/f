@@ -1,0 +1,22 @@
+h3{
+    width: 100%;
+    text-align: center;
+    
+}
+#heading_div{
+    text-align: center;
+}
+canvas {
+    border:5px solid white;
+    border-radius: 20px;
+animation-name: example;
+animation-duration: 4s;
+margin-top: 100px;
+animation-iteration-count: infinite;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom:0;
+    text-align: center;
+    
+}
